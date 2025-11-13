@@ -37,7 +37,7 @@ const Contact = () => {
               </div>
               <div className="flex items-center space-x-4">
                 <FaMapMarkerAlt className="text-pink-500 text-2xl" />
-                <span>Lagos, Nigeria</span>
+                <span>Lagos,Satallite town, Nigeria</span>
               </div>
             </div>
 
@@ -73,7 +73,7 @@ const Contact = () => {
           {/* Contact Form */}
           <div className="bg-white p-8 rounded-2xl shadow-lg">
             <form
-              action="https://formspree.io/f/your-form-id"
+              action="https://formspree.io/f/your-form-id-fapszsamuel"
               method="POST"
               className="space-y-6"
             >

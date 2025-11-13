@@ -9,7 +9,7 @@ const myWorks = [
       "An elegant hotel management website built with React and Tailwind CSS. Includes product filtering, add-to-cart system, and responsive design and backend javascript.",
     image:
       "https://images.unsplash.com/photo-1616394584738-d8b6f6f3b9d3?auto=format&fit=crop&w=800&q=80",
-    link: "https://your-live-demo-link.com",
+    link: "https://My-project-seven-sage.vercel.app",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const myWorks = [
       "A modern personal portfolio showcasing my web development projects and skills with smooth animations and contact form.",
     image:
       "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
-    link: "https://your-live-demo-link.com",
+    link: "https://my-portfolio-eignt-sandy-75.vercel.app",
   },
   {
     id: 3,
