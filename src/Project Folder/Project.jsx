@@ -8,7 +8,7 @@ const myWorks = [
     description:
       "An elegant hotel management website built with React and Tailwind CSS. Includes product filtering, add-to-cart system, and responsive design and backend javascript.",
     image:
-      "https://images.unsplash.com/photo-1616394584738-d8b6f6f3b9d3?auto=format&fit=crop&w=800&q=80",
+      "pexels-1.jpg",
     link: "https://My-project-seven-sage.vercel.app",
   },
   {
